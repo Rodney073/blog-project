@@ -28,6 +28,7 @@ header {
      width: 100px;
      text-align: center;
      margin-top: 20px;
+     padding: 4px;
  }
  input {
     border: solid black 1px;
@@ -46,6 +47,7 @@ header {
  }
 
  h1 {
-    margin-top: 0;
+    margin-top: 15px;
     top: 0;
+    font-size: medium;
  }
