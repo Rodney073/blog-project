@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    height: 80px;
+    line-height: 80px;
+    background-color: rgb(100, 100, 100);
+}
+ #headertitle {
+     font-size: 40px;
+     margin-top: 0;
+     top: 0;
+     vertical-align: middle;
+     max-height: 80px;
+     margin-left: 150px;
+    
+ }
+
+ main {
+     padding: 0px 150px 0px 150px;
+ }
+
+ button{
+     background-color: rgb(172, 172, 172);
+     border: solid black 1px;
+     border-radius: 5px;
+     width: 100px;
+     text-align: center;
+     margin-top: 20px;
+ }
+ input {
+    border: solid black 1px;
+ }
+
+ #newcontent, article {
+     border: solid black 1px;
+     margin-top: 20px;
+     padding: 4px;
+ }
+
+
+ h2 {
+     font-weight: bold;
+     font-size: 20px;
+ }
+
+ h1 {
+    margin-top: 0;
+    top: 0;
+ }
